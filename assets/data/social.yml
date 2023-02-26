@@ -593,3 +593,13 @@ rss:
   Newtab: true
   Icon:
     Class: fas fa-rss fa-fw
+    
+# Tiktok
+tiktok:
+  Weight: 100
+  Prefix: https://www.tiktok.com/@
+  Title: Tiktok
+  Newtab: true
+  Icon:
+    Class: fa-fw fa-brands fa-tiktok
+
