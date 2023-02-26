@@ -601,4 +601,4 @@ tiktok:
   Title: Tiktok
   Newtab: true
   Icon:
-    Class: fa-brands fa-tiktok
+    Class: fab fa-tiktok fa-fw
