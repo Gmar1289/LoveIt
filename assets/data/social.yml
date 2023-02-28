@@ -597,7 +597,7 @@ rss:
 # Tiktok
 tiktok:
   Weight: 4
-  Prefix: https://www.tiktok.com/@
+  Prefix: https://www.tiktok.com/
   Title: Tiktok
   Newtab: true
   Icon:
